@@ -25,11 +25,13 @@ HDO Box APK stands out among streaming apps for its user-friendly design, rich c
 ### 4. **Cross-Platform Compatibility**:
    Works seamlessly on Android devices, Smart TVs, PCs (via emulator), and more.
     
-### 5. **Multilingual Subtitles**:
-    Choose subtitles in over 25 languages, making content accessible to a global audience.
+### 5. **Multilingual Subtitles**
+
+   Choose subtitles in over 25 languages, making content accessible to a global audience.
     
 ### 6. **Frequent Updates**:
-    Get the latest content and enjoy bug-free performance with regular updates.
+
+   Get the latest content and enjoy bug-free performance with regular updates.
     
 ## Features of HDO Box APK
 
