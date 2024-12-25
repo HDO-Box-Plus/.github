@@ -58,21 +58,21 @@ HDO Box APK stands out among streaming apps for its user-friendly design, rich c
 
    Follow these simple steps to download and install HDO Box APK:
 
-**Step 1:** Enable Unknown Sources
+**Step 1: Enable Unknown Sources:**
    Go to your device’s Settings.
    Navigate to Security or Privacy settings.
    Enable the option to allow installations from unknown sources.
 
-**Step 2:** Download the APK File
-   Visit the official website: Download HDO Box APK.
+**Step 2: Download the APK File:**
+   Visit the official website: [Download HDO Box APK](https://hdoboxplus.com/).
    Click on the "Download" button to get the latest version of HDO Box APK.
 
-**Step 3:** Install the APK
+**Step 3: Install the APK:**
    Locate the downloaded file in your device’s "Downloads" folder.
    Tap on the file and select "Install."
    Follow the on-screen instructions to complete the installation process.
 
-**Step 4:** Launch the App
+**Step 4: Launch the App:**
    Open HDO Box APK, explore its features, and start streaming your favorite content!
 
 ## FAQs About HDO Box APK
